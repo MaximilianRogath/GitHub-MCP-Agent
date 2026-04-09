@@ -1,0 +1,11 @@
+# GitHub Agent — Python dependencies
+# Versions verified on 2026-04-09
+
+# Microsoft Agent Framework
+agent-framework==1.0.0
+
+# Azure Identity (keyless authentication)
+azure-identity==1.25.3
+
+# Load environment variables from .env
+python-dotenv==1.2.2
