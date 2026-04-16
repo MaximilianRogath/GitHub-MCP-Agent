@@ -93,7 +93,6 @@ Agent: Here are the open issues in MaximilianRogath/Contoso-FAQ-Agent ...
 The MCP integration pattern in this project is based on the official Microsoft Agent Framework documentation:
 
 - [MCP and Foundry Agents](https://learn.microsoft.com/en-us/agent-framework/agents/tools/hosted-mcp-tools) — Microsoft Learn
-- [GitHub MCP example code](https://learn.microsoft.com/en-us/agent-framework/agents/tools/hosted-mcp-tools) — © Microsoft, licensed under MIT
 
 ## License
 
